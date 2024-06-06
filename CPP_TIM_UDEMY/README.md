@@ -3,7 +3,7 @@
 - Compiler errors
   ![img](./images/1_compiler_errors.png)
 - Compiler warnings
-  ![img](./images/2_compiler_warnings)
+  ![img](./images/2_compiler_warnings.png)
   Also initialized the variable but not used in the program
 - Linker errors
   ![img](./images/3_a_linker_error.png)
