@@ -12,3 +12,14 @@
   ![img](./images/4_runtime_error.png)
 - Logic errors
   ![img](./images/5_a_logic_error.png)
+
+# C++  keywords
+ ![img](./images/6_keywords.png)
+
+# Preprocessor directives 
+`# incude` is a preprocessor directive
+![image](./images/7_preprocessor_directives.png)
+
+# Comments in cpp
+- `//` single line comment in c++
+- `/* */` everything between this is a comment. It is a multiline comment
