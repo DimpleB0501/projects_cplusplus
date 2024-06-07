@@ -27,4 +27,22 @@
 # Comments in cpp
 - `//` single line comment in c++
 - `/* */` everything between this is a comment. It is a multiline comment
-- `/**************************<br/> * Author <br> ************************/`
+
+  # Main function
+  ![img](./images/8_main.png)
+
+  # Namespaces
+  `using namespace std;`
+![image](./images/9_a_namespace.png)
+![image](./images/9_b_namespace.png)
+
+Try not to use in large programs as multiple variables with the same name will be present in your code as well as other codes and libraries. You can do this instead
+![image](./images/9_c_namespace.png)
+
+# Input/ Output operators
+![image](./images/10_in_out.png)
+
+![image](./images/10_b.png)
+
+![image](./images/10_c.png)
+  
