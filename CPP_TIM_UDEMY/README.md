@@ -16,6 +16,10 @@
 # C++  keywords
  ![img](./images/6_keywords.png)
 
+`<<` -> stream insertion operator
+`>>` -> stream extraction operator
+`::` -> scope resolution operator
+
 # Preprocessor directives 
 `# incude` is a preprocessor directive
 ![image](./images/7_preprocessor_directives.png)
@@ -23,3 +27,4 @@
 # Comments in cpp
 - `//` single line comment in c++
 - `/* */` everything between this is a comment. It is a multiline comment
+- `/**************************<br/> * Author <br> ************************/`
