@@ -53,6 +53,9 @@ Try not to use in large programs as multiple variables with the same name will b
 ![image](./images/14_good_habit.png)
 ![image](./images/15_initialize_var.png)
 
+### LOCAL vs GLOBAL
+global variables are declared outside, and are initialized to zero on declaration.
+
 
 
 
