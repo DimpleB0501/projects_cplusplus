@@ -41,6 +41,10 @@ Try not to use in large programs as multiple variables with the same name will b
 
 # Input/ Output operators
 ![image](./images/10_in_out.png)
+![image](./images/10_b.png)
+
+![image](./images/10_c.png)
+  
 
 # Variables
 ![image](./images/11_init_var.png)
@@ -51,7 +55,4 @@ Try not to use in large programs as multiple variables with the same name will b
 
 
 
-![image](./images/10_b.png)
 
-![image](./images/10_c.png)
-  
