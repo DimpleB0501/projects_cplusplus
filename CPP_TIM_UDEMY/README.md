@@ -56,6 +56,19 @@ Try not to use in large programs as multiple variables with the same name will b
 ### LOCAL vs GLOBAL
 global variables are declared outside, and are initialized to zero on declaration.
 
+# Primitive type
+![image](./images/16.png)
+![image](./images/17.png)
+![image](./images/18.png)
+![image](./images/19.png)
+![image](./images/20.png)
+![image](./images/21.png)
+
+char single quote `char first_ini{'d'}` <br/>
+string double quote `string name = "dimple"` <br/>
+`long people_on_earth {7'600'000'000}` c++ 14
+
+
 
 
 
