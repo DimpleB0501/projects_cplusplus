@@ -66,9 +66,19 @@ global variables are declared outside, and are initialized to zero on declaratio
 
 char single quote `char first_ini{'d'}` <br/>
 string double quote `string name = "dimple"` <br/>
-`long people_on_earth {7'600'000'000}` c++ 14
+`long long people_on_earth {7'600'000'000}` c++ 14
 
+# sizeof operator
+![image](./images/22_a.png)
+![image](./images/22_b.png)
 
-
+# Constant
+![image](./images/23.png)
+![image](./images/24.png)
+![image](./images/25.png)
+![image](./images/26.png)
+![image](./images/27.png)
+![image](./images/28.png)
+![image](./images/29.png)
 
 
